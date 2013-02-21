@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SquareRootException", "SquareRootException\01.SquareRootException.csproj", "{E9973661-8DA0-41E5-A1E0-4B6CD75F41FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReadNumberException", "ReadNumberException\02.ReadNumberException.csproj", "{29BCF037-96AF-4712-9C80-AD369B181E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FileNameException", "FileNameException\03.FileNameException.csproj", "{6A62B32C-67B6-41A7-9B33-1AC384FB50E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.DownloadFileException", "DownloadFileException\04.DownloadFileException.csproj", "{79E5E318-AF38-431E-AB1E-77A1B89FD1DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9973661-8DA0-41E5-A1E0-4B6CD75F41FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9973661-8DA0-41E5-A1E0-4B6CD75F41FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9973661-8DA0-41E5-A1E0-4B6CD75F41FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9973661-8DA0-41E5-A1E0-4B6CD75F41FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BCF037-96AF-4712-9C80-AD369B181E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BCF037-96AF-4712-9C80-AD369B181E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BCF037-96AF-4712-9C80-AD369B181E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BCF037-96AF-4712-9C80-AD369B181E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A62B32C-67B6-41A7-9B33-1AC384FB50E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A62B32C-67B6-41A7-9B33-1AC384FB50E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A62B32C-67B6-41A7-9B33-1AC384FB50E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A62B32C-67B6-41A7-9B33-1AC384FB50E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E5E318-AF38-431E-AB1E-77A1B89FD1DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E5E318-AF38-431E-AB1E-77A1B89FD1DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E5E318-AF38-431E-AB1E-77A1B89FD1DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E5E318-AF38-431E-AB1E-77A1B89FD1DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
